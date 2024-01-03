@@ -6,5 +6,7 @@
 </head>
 <body>
     <h1>Currency Calculator</h1>
+    <form action="" method="get">
+    </form>
 </body>
 </html>
